@@ -47,10 +47,6 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sajeevanh2r&show_icons=true&theme=radical" height="160"/>
-  
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajeevanh2r&theme=react-dark" alt="GitHub Activity Graph" />
